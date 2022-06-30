@@ -2,7 +2,7 @@
 
 # Telerik UI for Blazor Components and Sample Apps
 
-Telerik UI for Blazor enables you to develop new Blazor applications and modernize legacy web projects in half the time with a high-performing Blazor Data Grid and 95+ truly native, easy-to-customize UI components to cover any requirement.
+Telerik UI for Blazor enables you to develop new Blazor applications and modernize legacy web projects in half the time with a high-performing Blazor Data Grid and 95+ truly native, easy-to-customize UI components to cover any requirement. 
 
 [![Try Telerik Blazor UI](images/830x230-Blazor-Banner.png)](https://www.telerik.com/blazor-ui/?utm_medium=referral&utm_source=github&utm_campaign=blazor-ui-trial-gh-public-readme)
 
