@@ -2,7 +2,7 @@
 
 # Telerik UI for Blazor Components and Sample Apps
 
-Telerik UI for Blazor enables you to develop new Blazor applications and modernize legacy web projects in half the time with a high-performing Blazor Data Grid and 95+ truly native, easy-to-customize UI components to cover any requirement.
+Telerik UI for Blazor enables you to develop new Blazor applications and modernize legacy web projects in half the time with a high-performing Blazor Data Grid and 100+ truly native, easy-to-customize UI components to cover any requirement.
 
 [![Try Telerik Blazor UI](images/830x230-Blazor-Banner.png)](https://www.telerik.com/blazor-ui/?utm_medium=referral&utm_source=github&utm_campaign=blazor-awareness-components-examples-github)
 
@@ -251,7 +251,7 @@ If your feature isn’t listed in the product roadmap, check our dedicated [feed
   <td><a href="https://demos.telerik.com/blazor-ui/radiogroup/overview?utm_medium=referral&utm_source=github&utm_campaign=blazor-awareness-components-examples-github">RadioGroup Demos</td>
 </tr>
 <tr>
-  <td><b>Blazor Editor Component</b></td>
+  <td><b>Blazor Rich Text Editor Component</b></td>
   <td><a href="https://www.telerik.com/blazor-ui/editor?utm_medium=referral&utm_source=github&utm_campaign=blazor-awareness-components-examples-github">Editor Features</a></td>
   <td><a href="https://docs.telerik.com/blazor-ui/components/editor/overview?utm_medium=referral&utm_source=github&utm_campaign=blazor-awareness-components-examples-github"> Editor Documentation</td>
   <td><a href="https://demos.telerik.com/blazor-ui/editor/overview?utm_medium=referral&utm_source=github&utm_campaign=blazor-awareness-components-examples-github">Editor Demos</td>
@@ -528,6 +528,12 @@ If your feature isn’t listed in the product roadmap, check our dedicated [feed
   <td><a href="https://docs.telerik.com/blazor-ui/components/animationcontainer/overview?utm_medium=referral&utm_source=github&utm_campaign=blazor-awareness-components-examples-github">Animation Documentation</td>
   <td><a href="https://demos.telerik.com/blazor-ui/animationcontainer/overview?utm_medium=referral&utm_source=github&utm_campaign=blazor-awareness-components-examples-github">Animation Demos</td>
 </tr>
+<tr>
+  <td><b>Blazor Avatar</b></td>
+  <td><a href="https://www.telerik.com/blazor-ui/avatar?utm_medium=referral&utm_source=github&utm_campaign=blazor-awareness-components-examples-github">Avatar Features</a></td>
+  <td><a href="https://docs.telerik.com/blazor-ui/components/avatar/overview?utm_medium=referral&utm_source=github&utm_campaign=blazor-awareness-components-examples-github">Avatar Documentation</td>
+  <td><a href="https://demos.telerik.com/blazor-ui/avatar/overview?utm_medium=referral&utm_source=github&utm_campaign=blazor-awareness-components-examples-github">Avatar Demos</td>
+</tr>
   <tr>
   <td><b>Blazor Dialog Component</b></td>
   <td><a href="https://www.telerik.com/blazor-ui/dialog?utm_medium=referral&utm_source=github&utm_campaign=blazor-awareness-components-examples-github">Dialog Features</a></td>
@@ -588,6 +594,22 @@ If your feature isn’t listed in the product roadmap, check our dedicated [feed
 </tr>
 </tbody></table>  
 
+### Blazor Icon Components
+<table><tbody>
+<tr>
+  <td><b>Blazor FontIcon Component</b></td>
+  <td><a href="https://www.telerik.com/blazor-ui/fonticon?utm_medium=referral&utm_source=github&utm_campaign=blazor-awareness-components-examples-github">FontIcon Features</a></td>
+  <td><a href="https://docs.telerik.com/blazor-ui/common-features/icons?utm_medium=referral&utm_source=github&utm_campaign=blazor-awareness-components-examples-github">FontIcon Documentation</td>
+  <td><a href="https://demos.telerik.com/blazor-ui/fonticon/overview?utm_medium=referral&utm_source=github&utm_campaign=blazor-awareness-components-examples-github">FontIcon Demos</td>
+</tr>
+<tr>
+  <td><b>Blazor SVGIcon Component</b></td>
+  <td><a href="https://www.telerik.com/blazor-ui/svgicon?utm_medium=referral&utm_source=github&utm_campaign=blazor-awareness-components-examples-github">SVGIcon Features</a></td>
+  <td><a href="https://docs.telerik.com/blazor-ui/common-features/icons?utm_medium=referral&utm_source=github&utm_campaign=blazor-awareness-components-examples-github">SVGIcon Documentation</td>
+  <td><a href="https://demos.telerik.com/blazor-ui/svgicon/overview?utm_medium=referral&utm_source=github&utm_campaign=blazor-awareness-components-examples-github">SVGIcon Demos</td>
+</tr>
+</tbody></table>  
+
 ### Blazor Navigation Components
 <table><tbody>
 <tr>
@@ -607,6 +629,18 @@ If your feature isn’t listed in the product roadmap, check our dedicated [feed
   <td><a href="https://www.telerik.com/blazor-ui/buttongroup?utm_medium=referral&utm_source=github&utm_campaign=blazor-awareness-components-examples-github">ButtonGroup Features</a></td>
   <td><a href="https://docs.telerik.com/blazor-ui/components/buttongroup/overview?utm_medium=referral&utm_source=github&utm_campaign=blazor-awareness-components-examples-github">ButtonGroup Documentation</td>
   <td><a href="https://demos.telerik.com/blazor-ui/buttongroup/overview?utm_medium=referral&utm_source=github&utm_campaign=blazor-awareness-components-examples-github">ButtonGroup Demos</td>
+</tr>
+<tr>
+  <td><b>Blazor Chip Component</b></td>
+  <td><a href="https://www.telerik.com/blazor-ui/chip?utm_medium=referral&utm_source=github&utm_campaign=blazor-awareness-components-examples-github">Chip Features</a></td>
+  <td><a href="https://docs.telerik.com/blazor-ui/components/chip/overview?utm_medium=referral&utm_source=github&utm_campaign=blazor-awareness-components-examples-github">Chip Documentation</td>
+  <td><a href="https://demos.telerik.com/blazor-ui/chip/overview?utm_medium=referral&utm_source=github&utm_campaign=blazor-awareness-components-examples-github">Chip Demos</td>
+</tr>
+<tr>
+  <td><b>Blazor ChipList Component</b></td>
+  <td><a href="https://www.telerik.com/blazor-ui/chiplist?utm_medium=referral&utm_source=github&utm_campaign=blazor-awareness-components-examples-github">ChipList Features</a></td>
+  <td><a href="https://docs.telerik.com/blazor-ui/components/chiplist/overview?utm_medium=referral&utm_source=github&utm_campaign=blazor-awareness-components-examples-github">ChipList Documentation</td>
+  <td><a href="https://demos.telerik.com/blazor-ui/chiplist/overview?utm_medium=referral&utm_source=github&utm_campaign=blazor-awareness-components-examples-github">ChipList Demos</td>
 </tr>
 <tr>
   <td><b>Blazor SplitButton Component</b></td>
@@ -722,17 +756,27 @@ As part of your Telerik UI for Blazor trial or licensed copy you get access to s
 </tr>
 </tbody></table>
 
+### Visual Studio Code
+The Telerik UI for Blazor Productivity Tools for Visual Studio Code includes: UI for Blazor Scaffolder, Code Snippets Pack, Telerik UI for Blazor Project Templates, Convert Command & Share to Telerik Blazor REPL feature
+<table><tbody>
+<tr>
+  <td><b>Visual Studio Code</b></td>
+  <td><a href="https://www.telerik.com/blazor-ui/visual-studio-code?utm_medium=referral&utm_source=github&utm_campaign=blazor-awareness-components-examples-github">Visual Studio Code Overview</a></td>
+  <td><a href="https://docs.telerik.com/blazor-ui/getting-started/vs-code-integration/introduction?utm_medium=referral&utm_source=github&utm_campaign=blazor-awareness-components-examples-github">Visual Studio Code Documentation</td>
+</tr>
+</tbody></table> 
+
 ## Design-to-Development Support
 
-### 3 Design Themes
+### Four Design Themes
 
-Telerik Ui for Blazor includes [three built-in themes: Blazor Default Theme, Material and Bootstrap Themes](https://docs.telerik.com/blazor-ui/styling-and-themes/overview?utm_medium=referral&utm_source=github&utm_campaign=blazor-awareness-components-examples-github), as well as multiple color swatches including "Ocean Blue" targeting  accessibility compliance.
+Telerik Ui for Blazor includes [four built-in themes: Blazor Default Theme, Material, Fluent and Bootstrap Themes](https://docs.telerik.com/blazor-ui/styling-and-themes/overview?utm_medium=referral&utm_source=github&utm_campaign=blazor-awareness-components-examples-github), as well as multiple color swatches including "Ocean Blue" targeting  accessibility compliance.
 
 ### Design Kits for Figma
 
 <table><tbody>
 <tr>
-  <td><b>3 Telerik UI Design Kits for Figma</b></td>
+  <td><b>Four Telerik UI Design Kits for Figma</b></td>
    <td><a href="https://www.telerik.com/blazor-ui/3-telerik-ui-kits-for-figma?utm_medium=referral&utm_source=github&utm_campaign=blazor-awareness-components-examples-github">Telerik UI Figma Design Kits</a></td>
   <td><a href="https://docs.telerik.com/blazor-ui/styling-and-themes/figma-ui-kits?utm_medium=referral&utm_source=github&utm_campaign=blazor-awareness-components-examples-github">Documentation</td>
 </tr>
