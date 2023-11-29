@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace BlazingCoffee.Client.Shared
+namespace Shared
 {
     public class ThemeSetting
     {
