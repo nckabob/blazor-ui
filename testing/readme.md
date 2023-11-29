@@ -1,5 +1,7 @@
 # Unit Testing Blazor Apps with Telerik UI for Blazor
 
+
+
 This folder contains a few sample projects that illustrate the basics of writing unit tests for a Blazor application that also has the Telerik UI for Blazor components in it.
 
 In this collection of sample projects, the application under test is in the `testing-sample-app` folder.
